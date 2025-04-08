@@ -1,0 +1,73 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "18c1723432283e0cc55f10a6dcfd9e0288a783a885d8b0b3beb2e9f90bde3f49"
+    }
+  ],
+  "containerPath" : "/Users/seungchulha/Developer/projects/hsc/study/flutter_study/ios/Runner.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/seungchulha/Developer/projects/hsc/study/flutter_study/ios/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/seungchulha/Developer/projects/hsc/study/flutter_study/ios/Build/Products",
+      "derivedDataPath" : "/Users/seungchulha/Developer/derived",
+      "indexDataStoreFolderPath" : "/Users/seungchulha/Developer/derived/Runner-fpsbcgqsdttlddfljollbxvvdtav/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/seungchulha/Developer/derived/Runner-fpsbcgqsdttlddfljollbxvvdtav/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/seungchulha/Developer/projects/hsc/study/flutter_study/ios/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "BUILD_DIR" : "/Users/seungchulha/Developer/projects/hsc/study/flutter_study/build/ios",
+          "COMPILER_INDEX_STORE_ENABLE" : "NO",
+          "FLUTTER_SUPPRESS_ANALYTICS" : "true",
+          "SDKROOT" : "iphonesimulator18.2"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad14,5-A",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.3.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPad14,5-A",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "D76C9257-70E8-498C-84F3-A4FD5C005F0E",
+          "TARGET_DEVICE_MODEL" : "iPad14,5",
+          "TARGET_DEVICE_OS_VERSION" : "18.3.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
